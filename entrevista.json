@@ -1,7 +1,4 @@
-
-{
-  "total_entrevistados": 8000,
-  "livros": [
+[
     {
       "titulo": "O Alquimista",
       "Walter Castro": {
@@ -82,5 +79,4 @@
       },
       "numero_votantes": 850
     }
-  ]
-}
+]
