@@ -18,6 +18,7 @@
       "titulo": "O Diário de Anne Frank",
         "opiniao": "Uma poderosa lembrança da resiliência humana.",
       "numero_votantes": 900
+    },
     {
       "titulo": "Harry Potter",
         "opiniao": "Ensina sobre amizade e coragem.",
@@ -37,10 +38,12 @@
       "titulo": "Torto Arado",
         "opiniao": "Aborda questões sociais de maneira envolvente.",
       "numero_votantes": 800
+    },
     {
       "titulo": "O Senhor dos Anéis",
         "opiniao": "Uma aventura épica que redefine fantasia.",
       "numero_votantes": 920
+    },
     {
       "titulo": "As Crônicas de Nárnia",
         "opiniao": "Mistura magia e moralidade de maneira cativante.",
