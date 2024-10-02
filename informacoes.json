@@ -1,12 +1,12 @@
-[
-    ["O Alquimista", 800],
-    ["Dom Casmurro", 700],
-    ["A Culpa é das Estrelas", 850],
-    ["O Diário de Anne Frank", 900],
-    ["Harry Potter", 950],
-    ["A Menina que Roubava Livros", 750],
-    ["O Pequeno Príncipe", 880],
-    ["Torto Arado", 800],
-    ["O Senhor dos Anéis", 920],
-    ["As Crônicas de Nárnia", 850]
-]
+{
+    "O Alquimista": 800,
+    "Dom Casmurro": 700,
+    "A Culpa é das Estrelas": 850,
+    "O Diário de Anne Frank": 900,
+    "Harry Potter": 950,
+    "A Menina que Roubava Livros": 750,
+    "O Pequeno Príncipe": 880,
+    "Torto Arado": 800,
+    "O Senhor dos Anéis": 920,
+    "As Crônicas de Nárnia": 850
+}
